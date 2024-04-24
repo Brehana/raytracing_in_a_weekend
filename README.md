@@ -10,4 +10,4 @@
  
 ![progress](progress_images/progress.gif)
 
-<\p>
+</p>
