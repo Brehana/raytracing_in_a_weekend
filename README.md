@@ -7,5 +7,7 @@
 
 <p align="center">
 <b>Progress</b>
+ 
 ![progress](progress_images/progress.gif)
+
 <\p>
