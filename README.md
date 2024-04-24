@@ -3,6 +3,9 @@
  graphics programming using the book
  <a href="https://raytracing.github.io/books/RayTracingInOneWeekend.html">
     <cite>Ray Tracing in One Weekend</cite>
-</a> <br>
+</a> by Peter Shirley, Trevor David Black and Steve Hollasch. Good book, would recommend.
 
+<p align="center">
+ <b>Progress</b><br>
 ![progress](progress_images/progress.gif)
+<\p>
