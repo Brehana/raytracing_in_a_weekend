@@ -1,0 +1,4 @@
+
+    1   Calculate the ray from the “eye” through the pixel,
+    2   Determine which objects the ray intersects, and
+    3   Compute a color for the closest intersection point.
