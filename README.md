@@ -6,6 +6,6 @@
 </a> by Peter Shirley, Trevor David Black and Steve Hollasch. Good book, would recommend.
 
 <p align="center">
- <b>Progress</b><br>
+<b>Progress</b>
 ![progress](progress_images/progress.gif)
 <\p>
