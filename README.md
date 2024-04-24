@@ -8,6 +8,6 @@
 <p align="center">
 <b>Progress</b>
  
-![progress](progress_images/progress.gif)
+<p align="center">![progress](progress_images/progress.gif)</p>
 
 </p>
