@@ -5,9 +5,9 @@
     <cite>Ray Tracing in One Weekend</cite>
 </a> by Peter Shirley, Trevor David Black and Steve Hollasch. Good book, would recommend.
 
-<p align="center">
 <b>Progress</b>
+<p align="center">
  
-<p align="center">![progress](progress_images/progress.gif)</p>
+![progress](progress_images/progress.gif)
 
 </p>
