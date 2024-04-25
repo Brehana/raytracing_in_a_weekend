@@ -16,7 +16,7 @@
 
 This is a primitive API for raytracing, but forms a solid foundation for a more robust 3D rendering program. Currently, this
 program defines polygons (see "hittable.h") and places them in a collection forming the "world". This world is then rendered 
-using a camera (see "camera.h") that can be positioned using a Vector3 position. Both of these tasks are completed in main, and
+using a camera (see "camera.h") that can be positioned using a Vector3 position. Both of these tasks are completed in main.cpp, and
 the output is redirected to a .ppm file using a windows .bat script.
 
 To start printing spheres...
