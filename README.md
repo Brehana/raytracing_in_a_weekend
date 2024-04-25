@@ -21,8 +21,8 @@ the output is redirected to a .ppm file using a windows .bat script.
 
 To start printing spheres...
 
-[1]: Download code.
-[2]: Using Command Prompt, navigate to downloaded folder.
-[3]: Run .\Make
+[1]: Download code.<br>
+[2]: Using Command Prompt, navigate to downloaded folder.<br>
+[3]: Run .\Make<br><br>
 
 [!] NOTE: Windows Powershell will not correctly output .ppm data, so it cannot be used to generate images with this code.
